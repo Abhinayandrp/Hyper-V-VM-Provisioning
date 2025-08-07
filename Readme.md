@@ -47,7 +47,7 @@ Hyper-V PowerShell module (part of Hyper-V feature)
 Run the PowerShell script with Administrator privileges:
 
 # powershell
-powershell.exe -ExecutionPolicy Bypass -File .\Hyper-V-VM-Provisioning.ps1
+`powershell.exe -ExecutionPolicy Bypass -File .\Hyper-V-VM-Provisioning.ps1`
 The GUI will open containing fields for all VM parameters.
 
 # Fill in the VM details:
